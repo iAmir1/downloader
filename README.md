@@ -95,6 +95,8 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [95e4b88aa59a487f7d278d90009517ff03b9bc15](https://github.com/iAmir1/downloader/tree/main/downloads/95e4b88aa59a487f7d278d90009517ff03b9bc15)
@@ -110,5 +112,7 @@ a
 6. [seg-14-v1-a1](https://github.com/iAmir1/downloader/tree/main/downloads/seg-14-v1-a1)
 
 7. [tele-mirror-win-x64](https://github.com/iAmir1/downloader/tree/main/downloads/tele-mirror-win-x64)
+
+8. [tsetup-x64.6.7.8](https://github.com/iAmir1/downloader/tree/main/downloads/tsetup-x64.6.7.8)
 
 ---

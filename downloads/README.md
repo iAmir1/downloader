@@ -7,6 +7,7 @@
 - [pornhub-downloader-edge](./pornhub-downloader-edge)
 - [seg-14-v1-a1](./seg-14-v1-a1)
 - [tele-mirror-win-x64](./tele-mirror-win-x64)
+- [tsetup-x64.6.7.8](./tsetup-x64.6.7.8)
 
 ---
 
