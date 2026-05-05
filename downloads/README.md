@@ -5,8 +5,6 @@
 - [mp4_sd](./mp4_sd)
 - [pornhub-downloader-edge](./pornhub-downloader-edge)
 - [seg-14-v1-a1](./seg-14-v1-a1)
-- [video_360p](./video_360p)
-- [view_video](./view_video)
 
 ---
 
