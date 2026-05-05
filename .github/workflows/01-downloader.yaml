@@ -18,7 +18,7 @@ on:
       password:
         description: 'Password for zip files (optional)'
         required: false
-        default: '1111'
+        default: ''
         type: string
 
 jobs:
