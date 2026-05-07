@@ -99,8 +99,12 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [_gamma](https://github.com/iAmir1/downloader/tree/main/downloads/_gamma)
+1. [1778191906file_12622](https://github.com/iAmir1/downloader/tree/main/downloads/1778191906file_12622)
+
+2. [_gamma](https://github.com/iAmir1/downloader/tree/main/downloads/_gamma)
 
 ---
