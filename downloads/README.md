@@ -4,6 +4,7 @@
 - [MasterDnsVPN_Client_Windows_AMD64](./MasterDnsVPN_Client_Windows_AMD64)
 - [MasterDnsVPN_Client_Windows_ARM64](./MasterDnsVPN_Client_Windows_ARM64)
 - [_gamma](./_gamma)
+- [releases](./releases)
 - [v2rayN-windows-64](./v2rayN-windows-64)
 - [v2rayNG_2.0.18_universal](./v2rayNG_2.0.18_universal)
 - [zyrln-1.4.0](./zyrln-1.4.0)
