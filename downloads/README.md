@@ -6,6 +6,7 @@
 - [_gamma](./_gamma)
 - [v2rayN-windows-64](./v2rayN-windows-64)
 - [v2rayNG_2.0.18_universal](./v2rayNG_2.0.18_universal)
+- [zyrln-1.4.0](./zyrln-1.4.0)
 - [zyrln-relay](./zyrln-relay)
 - [zyrln-windows-amd64](./zyrln-windows-amd64)
 
