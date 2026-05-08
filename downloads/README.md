@@ -11,6 +11,7 @@
 - [zyrln-1.4.0](./zyrln-1.4.0)
 - [zyrln-relay](./zyrln-relay)
 - [zyrln-windows-amd64](./zyrln-windows-amd64)
+- [zyrln-windows-amd64_cloud](./zyrln-windows-amd64_cloud)
 
 ---
 
