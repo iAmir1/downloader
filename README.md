@@ -119,6 +119,8 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [1778191906file_12622](https://github.com/iAmir1/downloader/tree/main/downloads/1778191906file_12622)
@@ -139,10 +141,12 @@ a
 
 9. [zyrln-1.4.0](https://github.com/iAmir1/downloader/tree/main/downloads/zyrln-1.4.0)
 
-10. [zyrln-relay](https://github.com/iAmir1/downloader/tree/main/downloads/zyrln-relay)
+10. [zyrln-1.4.0_sky](https://github.com/iAmir1/downloader/tree/main/downloads/zyrln-1.4.0_sky)
 
-11. [zyrln-windows-amd64](https://github.com/iAmir1/downloader/tree/main/downloads/zyrln-windows-amd64)
+11. [zyrln-relay](https://github.com/iAmir1/downloader/tree/main/downloads/zyrln-relay)
 
-12. [zyrln-windows-amd64_cloud](https://github.com/iAmir1/downloader/tree/main/downloads/zyrln-windows-amd64_cloud)
+12. [zyrln-windows-amd64](https://github.com/iAmir1/downloader/tree/main/downloads/zyrln-windows-amd64)
+
+13. [zyrln-windows-amd64_cloud](https://github.com/iAmir1/downloader/tree/main/downloads/zyrln-windows-amd64_cloud)
 
 ---
