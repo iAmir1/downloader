@@ -111,6 +111,8 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [1778191906file_12622](https://github.com/iAmir1/downloader/tree/main/downloads/1778191906file_12622)
@@ -126,5 +128,7 @@ a
 6. [v2rayNG_2.0.18_universal](https://github.com/iAmir1/downloader/tree/main/downloads/v2rayNG_2.0.18_universal)
 
 7. [zyrln-relay](https://github.com/iAmir1/downloader/tree/main/downloads/zyrln-relay)
+
+8. [zyrln-windows-amd64](https://github.com/iAmir1/downloader/tree/main/downloads/zyrln-windows-amd64)
 
 ---
