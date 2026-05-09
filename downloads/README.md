@@ -4,6 +4,7 @@
 - [MasterDnsVPN_Client_Windows_AMD64](./MasterDnsVPN_Client_Windows_AMD64)
 - [MasterDnsVPN_Client_Windows_ARM64](./MasterDnsVPN_Client_Windows_ARM64)
 - [_gamma](./_gamma)
+- [l12oCcz7up4vZksS](./l12oCcz7up4vZksS)
 - [masterdnsvpn-HN-1.2.2-arm64-v8a-release](./masterdnsvpn-HN-1.2.2-arm64-v8a-release)
 - [releases](./releases)
 - [releases_alpha](./releases_alpha)
