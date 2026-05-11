@@ -127,6 +127,8 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [1778191906file_12622](https://github.com/iAmir1/downloader/tree/main/downloads/1778191906file_12622)
@@ -141,24 +143,26 @@ a
 
 6. [masterdnsvpn-HN-1.2.2-arm64-v8a-release](https://github.com/iAmir1/downloader/tree/main/downloads/masterdnsvpn-HN-1.2.2-arm64-v8a-release)
 
-7. [releases](https://github.com/iAmir1/downloader/tree/main/downloads/releases)
+7. [pWs_8_TEs1ap02x2](https://github.com/iAmir1/downloader/tree/main/downloads/pWs_8_TEs1ap02x2)
 
-8. [releases_alpha](https://github.com/iAmir1/downloader/tree/main/downloads/releases_alpha)
+8. [releases](https://github.com/iAmir1/downloader/tree/main/downloads/releases)
 
-9. [termux-app_v0.118.3+github-debug_arm64-v8a](https://github.com/iAmir1/downloader/tree/main/downloads/termux-app_v0.118.3+github-debug_arm64-v8a)
+9. [releases_alpha](https://github.com/iAmir1/downloader/tree/main/downloads/releases_alpha)
 
-10. [v2rayN-windows-64](https://github.com/iAmir1/downloader/tree/main/downloads/v2rayN-windows-64)
+10. [termux-app_v0.118.3+github-debug_arm64-v8a](https://github.com/iAmir1/downloader/tree/main/downloads/termux-app_v0.118.3+github-debug_arm64-v8a)
 
-11. [v2rayNG_2.0.18_universal](https://github.com/iAmir1/downloader/tree/main/downloads/v2rayNG_2.0.18_universal)
+11. [v2rayN-windows-64](https://github.com/iAmir1/downloader/tree/main/downloads/v2rayN-windows-64)
 
-12. [zyrln-1.4.0](https://github.com/iAmir1/downloader/tree/main/downloads/zyrln-1.4.0)
+12. [v2rayNG_2.0.18_universal](https://github.com/iAmir1/downloader/tree/main/downloads/v2rayNG_2.0.18_universal)
 
-13. [zyrln-1.4.0_sky](https://github.com/iAmir1/downloader/tree/main/downloads/zyrln-1.4.0_sky)
+13. [zyrln-1.4.0](https://github.com/iAmir1/downloader/tree/main/downloads/zyrln-1.4.0)
 
-14. [zyrln-relay](https://github.com/iAmir1/downloader/tree/main/downloads/zyrln-relay)
+14. [zyrln-1.4.0_sky](https://github.com/iAmir1/downloader/tree/main/downloads/zyrln-1.4.0_sky)
 
-15. [zyrln-windows-amd64](https://github.com/iAmir1/downloader/tree/main/downloads/zyrln-windows-amd64)
+15. [zyrln-relay](https://github.com/iAmir1/downloader/tree/main/downloads/zyrln-relay)
 
-16. [zyrln-windows-amd64_cloud](https://github.com/iAmir1/downloader/tree/main/downloads/zyrln-windows-amd64_cloud)
+16. [zyrln-windows-amd64](https://github.com/iAmir1/downloader/tree/main/downloads/zyrln-windows-amd64)
+
+17. [zyrln-windows-amd64_cloud](https://github.com/iAmir1/downloader/tree/main/downloads/zyrln-windows-amd64_cloud)
 
 ---
